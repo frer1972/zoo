@@ -1,4 +1,0 @@
-spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
-spring.datasource.username=frere
-spring.datasource.password=password
-spring.jpa.hibernate.ddl-auto=update
